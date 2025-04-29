@@ -71,3 +71,9 @@ This means that standard copyright laws apply, and **all rights are reserved by 
 A huge thank you to the vibrant web development community, indispensable resources like MDN Web Docs, and the countless developers sharing their knowledge online that inspire and inform this project.
 
 Happy Coding!
+
+New Links Unorganized:
+[Emmet]([url](https://emmet.io/)) - Tool - speed up html and css code writing
+[CSS Cheat Sheet]([url](https://htmlcheatsheet.com/css/)) - Tool - As the name suggests
+[W3 Cheatsheet]([url](https://www.w3.org/2009/cheatsheet/)) - Tool - W3's Official JS, HTML, CSS, SVG, XPath cheat sheet index
+[Can I use]([url](https://caniuse.com/)) - Tool - Shows devices and browsers availability
